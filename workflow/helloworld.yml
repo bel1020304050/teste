@@ -1,4 +1,4 @@
-name: Hello Word
+name: First Projeto
 on: workflow_dispatch
 jobs:
   first-job:
