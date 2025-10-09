@@ -1,8 +1,0 @@
-name: First Projeto
-on: workflow_dispatch
-jobs:
-  first-job:
-    runs-on: ubuntu-latest
-    steps:
-     - name: Say Hello
-        run: echo "Hello World"
